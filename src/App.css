@@ -1,0 +1,16 @@
+/* body{
+  background: #eceff1!important;
+}
+
+.page-item.active .page-link{
+  background-color: #121212!important;
+  border-color: #121212!important;
+} */
+body {
+  background: #f5f7fa!important; /* Light blueish background */
+}
+
+.page-item.active .page-link {
+  background-color: #007bff!important; /* Blue active page link */
+  border-color: #007bff!important;
+}
